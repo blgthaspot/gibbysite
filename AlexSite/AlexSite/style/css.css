@@ -1,0 +1,149 @@
+.header {
+	width: 700px;
+	height: 135px;
+	margin: 0px auto 0px auto;
+	background: #f9e5a7;
+	color: #332809;
+	font-family: 'Lobster', cursive;
+	padding: 15px 15px 0 15px;
+	border: 5px solid #633800;
+	position: relative;
+	top: 50px
+}
+
+
+.logo {
+	border: 5px solid black;
+	margin: 5px;
+	float: left;
+	position: absolute;
+	left: 5px;
+	top: 5px;
+
+}
+
+.altlogo {
+	size: width:60px height: 60px;
+	border: 2px solid black;
+	position: absolute;
+	right: 1px;
+	bottom: 1px;
+
+}
+
+.nav_list {
+	position: absolute;
+	top: 105px
+
+}
+
+.footernav {
+	position: relative;
+	bottom: 0px;
+	margin: 0;
+	padding: 0 0 0 0px;
+	display: inline;
+
+
+
+}
+
+.title {
+	position: absolute;
+	top: 8px;
+	left: 145px;
+	font-size: 35px;
+
+}
+
+.body1 {
+	width: 700px;
+	border: 5px solid black;
+	margin: 10px auto 10px auto;
+	padding: 40px;
+
+		
+}
+
+.footer {
+	background-color: #332608;
+	margin: 5px auto 0 auto;
+	width: 100%;
+	position: absolute;
+}
+
+.annot {
+	color: white;
+	position: absolute;
+	top: 1px;
+	right: 10px;
+}
+
+.wrappedimage{
+	margin: 10px;
+	border: solid black;
+	float:left;
+
+
+}
+
+.wrappedimage2{
+	margin: 10px auto 0px auto;
+	border: solid black;
+	
+
+
+}
+
+.wrappedimage3{
+	margin: 10px;
+	border: solid black;
+	float: right;
+
+
+}
+
+
+.workspace {
+	width: 800px;
+	margin: 0 auto 0 auto;
+	background-color: #c9ba97;
+	border: dashed #332608;	
+}
+
+.parahead {
+	font-family: 'Amatic SC', cursive;
+	font-size: 21pt;
+}
+
+h5 {
+	color: red;
+	
+
+}
+
+
+nav ul{
+	margin: 0;
+	padding: 0 0 0 10px;
+	display: inline;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	background: #633800;
+	color: #e2daa7;
+	border: 5px solid #332809;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin: 0 10px 0 0;
+	padding: 5px 15px;
+}
+
+nav ul li a{
+	color: #e2daa7;
+}
+
+body {
+	background: #fffcea;
+}
